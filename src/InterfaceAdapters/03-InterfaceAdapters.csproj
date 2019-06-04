@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>InterfaceAdapters</AssemblyName>
+    <RootNamespace>InterfaceAdapters</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UseCases\02-UseCases.csproj" />
+  </ItemGroup>
+
+</Project>
